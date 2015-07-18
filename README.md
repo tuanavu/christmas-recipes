@@ -1,9 +1,5 @@
 Christmas Recipes
 =================
-
-## Notes:
-- This is a testing page based on a reference document of Anna Debenham: [getting started with Git Pages and Jekyll](http://24ways.org/2013/get-started-with-github-pages)
-
 [View site, hosted on Github Pages](http://tuanvu216.github.io/christmas-recipes/)
 
 This is a demo site, accompanying a tutorial on 24 ways about [getting started with Git Pages and Jekyll](http://24ways.org/2013/get-started-with-github-pages/).
@@ -22,3 +18,7 @@ Jekyll generates the raw files into the <i>_site</i> folder, so do no edit any o
 
 * [About Jekyll](http://jekyllrb.com/)
 * [About GitHub Pages](http://pages.github.com/)
+
+## Reference:
+- This is a testing page based on a reference document of Anna Debenham: 
+[getting started with Git Pages and Jekyll](http://24ways.org/2013/get-started-with-github-pages)
